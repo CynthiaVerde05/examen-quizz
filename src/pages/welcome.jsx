@@ -2,6 +2,7 @@ import WelcomeImage from "../images/welcome.png";
 import "../style/welcome.css";
 
 function Welcome() {
+ 
   return (
     <main>
       <div className="container-welcome">

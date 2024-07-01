@@ -1,10 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;600&display=swap');
 
-
-html, body, main {
-    height: 100%;
-    margin: 0;
-  }
   
   .container-welcome {
     display: flex;
@@ -46,8 +41,10 @@ html, body, main {
   
   .container-button button {
     font-family: 'Poppins', sans-serif;
-    padding: 10px 20px;
+    padding: 15px;
     cursor: pointer;
+    border-radius: 10px;
+    border: none;
   }
   
   
