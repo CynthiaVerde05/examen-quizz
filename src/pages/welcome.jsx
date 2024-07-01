@@ -1,5 +1,6 @@
-import WelcomeImage from "../images/welcome.png";
+import WelcomeImage from "../images/welcome2.png";
 import "../style/welcome.css";
+
 
 function Welcome() {
  
@@ -12,7 +13,7 @@ function Welcome() {
         <div className="text-container">
           <div className="title-style">
             <h1>¡Bienvenido al desafío del conocimiento!</h1>
-            <span>¿Listo para poner a prueba tus conocimientos? ¡Comienza ahora y diviértete aprendiendo!</span>
+            <span>¿Listo para poner a prueba tus conocimientos?<br/>¡Comienza ahora y diviértete aprendiendo!</span>
           </div>
           <div className="container-button">
             <button>Iniciar</button>
